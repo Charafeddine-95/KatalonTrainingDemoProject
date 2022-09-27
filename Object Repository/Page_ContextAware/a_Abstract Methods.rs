@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Abstract Methods</name>
+   <tag></tag>
+   <elementGuidId>617798e7-89b0-4d3e-9e56-81d112b1522b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#t3 > span > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='t3']/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee81d23b-5b58-4808-bf30-6450fac90f26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:show(4);</value>
+      <webElementGuid>7fc5ae8d-31a3-4eaa-827e-807cbfa63a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Abstract Methods</value>
+      <webElementGuid>cdfe5f8c-f11d-43f3-95ec-ecd147b0cdd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t3&quot;)/span[1]/a[1]</value>
+      <webElementGuid>c1c6937f-499e-4edf-ad4a-46de91a77265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ContextAware/iframe_classFrame</value>
+      <webElementGuid>b217fe78-c45e-49a9-971b-c1c4e57acbf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='t3']/span/a</value>
+      <webElementGuid>c9f717cb-248f-4334-9dae-800a2bf8ddb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Abstract Methods')]</value>
+      <webElementGuid>e8c824fe-d62a-4a82-b0ca-37899efdb18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instance Methods'])[1]/following::a[1]</value>
+      <webElementGuid>d759946d-6f80-4822-afc1-01ea543095c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:show(4);')]</value>
+      <webElementGuid>24052f1d-a4e4-46a5-8eb9-fe1832e6a186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span/a</value>
+      <webElementGuid>bee0c8da-70f8-4784-b3da-2c70d602c81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:show(4);' and (text() = 'Abstract Methods' or . = 'Abstract Methods')]</value>
+      <webElementGuid>0c97c4cc-1cc8-415a-a287-7bf7dd07e418</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
